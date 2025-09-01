@@ -1,1 +1,2 @@
 secrets !!!
+API_KEY = "J2pQvkrA75KtrVHpKuc41XqLON4pyw2ilO6beOYhJiLxHbnE3V"
