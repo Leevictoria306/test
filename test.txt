@@ -1,0 +1,1 @@
+proxy_url = 'https://05e627d22dd9e61:d14574526ec931a6@gw.dataimpulse.com:823'
